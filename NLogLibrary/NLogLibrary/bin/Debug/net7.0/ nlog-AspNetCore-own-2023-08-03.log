@@ -1,0 +1,45 @@
+2023-08-03 15:39:44.3650|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2023-08-03 15:39:44.3981|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2023-08-03 15:39:44.3981|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\rhakc\source\repos\AspnetCoreLogging-NLogLibrary\NLogLibrary\NLogLibrary |url: |action: 
+2023-08-03 15:39:44.7259|0|INFO|NLogLibrary.Controllers.HomeController|Index sayfası açılıyor. |url: https://localhost/|action: Index
+2023-08-03 16:00:50.4683|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2023-08-03 16:00:50.4917|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2023-08-03 16:00:50.4917|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\rhakc\source\repos\AspnetCoreLogging-NLogLibrary\NLogLibrary\NLogLibrary |url: |action: 
+2023-08-03 16:00:50.7093|0|INFO|NLogLibrary.Controllers.HomeController|Index sayfası açılıyor. |url: https://localhost/|action: Index
+2023-08-03 16:01:54.8891|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2023-08-03 16:01:54.9355|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2023-08-03 16:01:54.9355|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\rhakc\source\repos\AspnetCoreLogging-NLogLibrary\NLogLibrary\NLogLibrary |url: |action: 
+2023-08-03 16:01:55.2679|0|INFO|NLogLibrary.Controllers.HomeController|Index sayfası açılıyor. |url: https://localhost/|action: Index
+2023-08-03 16:04:47.6334|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2023-08-03 16:04:47.6506|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2023-08-03 16:04:47.6506|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\rhakc\source\repos\AspnetCoreLogging-NLogLibrary\NLogLibrary\NLogLibrary |url: |action: 
+2023-08-03 16:04:47.8179|0|INFO|NLogLibrary.Controllers.HomeController|Index sayfası açılıyor. |url: https://localhost/|action: Index
+2023-08-03 16:06:09.3173|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2023-08-03 16:06:09.3427|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2023-08-03 16:06:09.3427|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\rhakc\source\repos\AspnetCoreLogging-NLogLibrary\NLogLibrary\NLogLibrary |url: |action: 
+2023-08-03 16:06:09.7351|0|INFO|NLogLibrary.Controllers.HomeController|Index sayfası açılıyor. |url: https://localhost/|action: Index
+2023-08-03 16:15:19.1797|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2023-08-03 16:15:19.2726|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2023-08-03 16:15:19.2726|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\rhakc\source\repos\AspnetCoreLogging-NLogLibrary\NLogLibrary\NLogLibrary |url: |action: 
+2023-08-03 16:15:19.7715|0|INFO|NLogLibrary.Controllers.HomeController|Index sayfası açılıyor. |url: https://localhost/|action: Index
+2023-08-03 16:19:27.4265|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2023-08-03 16:19:27.4265|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2023-08-03 16:19:27.4265|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\rhakc\source\repos\AspnetCoreLogging-NLogLibrary\NLogLibrary\NLogLibrary |url: |action: 
+2023-08-03 16:19:27.8951|0|ERROR|NLogLibrary.Controllers.HomeController|Attempted to divide by zero. System.DivideByZeroException: Attempted to divide by zero.
+   at NLogLibrary.Controllers.HomeController.Index() in C:\Users\rhakc\source\repos\AspnetCoreLogging-NLogLibrary\NLogLibrary\NLogLibrary\Controllers\HomeController.cs:line 23|url: https://localhost/|action: Index
+2023-08-03 16:19:28.4773|0|INFO|NLogLibrary.Controllers.HomeController|Index sayfası açılıyor. |url: https://localhost/|action: Index
+2023-08-03 16:19:28.4773|0|WARN|NLogLibrary.Controllers.HomeController|Warning Error |url: https://localhost/|action: Index
+2023-08-03 16:21:30.3591|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2023-08-03 16:21:30.3820|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2023-08-03 16:21:30.3820|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\rhakc\source\repos\AspnetCoreLogging-NLogLibrary\NLogLibrary\NLogLibrary |url: |action: 
+2023-08-03 16:21:30.6345|0|ERROR|NLogLibrary.Controllers.HomeController|Attempted to divide by zero. System.DivideByZeroException: Attempted to divide by zero.
+   at NLogLibrary.Controllers.HomeController.Index() in C:\Users\rhakc\source\repos\AspnetCoreLogging-NLogLibrary\NLogLibrary\NLogLibrary\Controllers\HomeController.cs:line 23|url: https://localhost/|action: Index
+2023-08-03 16:21:31.0707|0|INFO|NLogLibrary.Controllers.HomeController|Index sayfası açılıyor. |url: https://localhost/|action: Index
+2023-08-03 16:21:31.0707|0|WARN|NLogLibrary.Controllers.HomeController|Warning Error |url: https://localhost/|action: Index
+2023-08-03 16:22:51.2924|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2023-08-03 16:22:51.3735|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2023-08-03 16:22:51.3735|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\rhakc\source\repos\AspnetCoreLogging-NLogLibrary\NLogLibrary\NLogLibrary |url: |action: 
+2023-08-03 16:22:52.2970|0|ERROR|NLogLibrary.Controllers.HomeController|Attempted to divide by zero. System.DivideByZeroException: Attempted to divide by zero.
+   at NLogLibrary.Controllers.HomeController.Index() in C:\Users\rhakc\source\repos\AspnetCoreLogging-NLogLibrary\NLogLibrary\NLogLibrary\Controllers\HomeController.cs:line 23|url: https://localhost/|action: Index
+2023-08-03 16:22:53.4683|0|INFO|NLogLibrary.Controllers.HomeController|Index sayfası açılıyor. |url: https://localhost/|action: Index
+2023-08-03 16:22:53.4761|0|WARN|NLogLibrary.Controllers.HomeController|Warning Error |url: https://localhost/|action: Index
